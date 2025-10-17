@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <!-- Logo Maximiza -->
+  <defs>
+    <style>
+      .logo-text-dark { fill: #1a365d; }
+      .logo-text-light { fill: #00a9e8; }
+      .logo-subtitle { fill: #00a9e8; font-size: 16px; }
+    </style>
+  </defs>
+  
+  <!-- ma -->
+  <text x="10" y="55" class="logo-text-dark" font-family="Arial, sans-serif" font-size="42" font-weight="900">ma</text>
+  
+  <!-- X with special styling -->
+  <text x="85" y="55" class="logo-text-light" font-family="Arial, sans-serif" font-size="42" font-weight="900">X</text>
+  
+  <!-- imiza -->
+  <text x="115" y="55" class="logo-text-light" font-family="Arial, sans-serif" font-size="42" font-weight="900">imiza</text>
+  
+  <!-- Subtitle -->
+  <text x="115" y="75" class="logo-subtitle" font-family="Arial, sans-serif" font-weight="500">Soluções Educacionais</text>
+</svg>
