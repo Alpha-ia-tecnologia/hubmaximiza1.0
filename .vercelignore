@@ -1,0 +1,9 @@
+backend/
+node_modules/
+.git/
+*.md
+GUIA_DE_TESTE.md
+INSTRUCOES-SIMPLES.md
+README-EXECUCAO.md
+start-servers.bat
+
